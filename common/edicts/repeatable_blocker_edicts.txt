@@ -1,0 +1,41 @@
+
+rtb_block_infinity_thesis = {
+	length = @EdictPerpetual
+	icon = "GFX_edict_type_policy"
+
+	resources = {
+		category = edicts_unscaled
+		cost = {
+			energy = 0
+		}
+		upkeep = {
+			energy = 0
+		}
+	}
+
+  	potential = { has_ascension_perk = ap_cosmogenesis }
+
+	ai_weight = {
+		weight = 0
+	}
+}
+rtb_block_fe_buildings = {
+	length = @EdictPerpetual
+	icon = "GFX_edict_type_policy"
+
+	resources = {
+		category = edicts_unscaled
+		cost = {
+			energy = 0
+		}
+		upkeep = {
+			energy = 0
+		}
+	}
+
+  	potential = { has_ascension_perk = ap_cosmogenesis }
+
+	ai_weight = {
+		weight = 0
+	}
+}
