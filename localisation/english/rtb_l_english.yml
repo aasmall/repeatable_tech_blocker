@@ -1,5 +1,3 @@
 ﻿l_english:
-  edict_rtb_block_fe_buildings:0      "[RTB] Block All Fallen Empire Buildings"
-  edict_rtb_block_fe_buildings_desc:0      "Prevents researchers from offering any Fallen Empire building as a reseach option"
   edict_rtb_block_infinity_thesis:0   "[RTB] Block Infinity Thesis"
   edict_rtb_block_infinity_thesis_desc:0   "Prevents researchers from offering Infinity Thesis as a reseach option"

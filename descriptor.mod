@@ -5,5 +5,5 @@ tags={
 	"Technologies"
 }
 name="Repeatable Tech Blocker"
-supported_version="v4.0.16"
+supported_version="v4.0.17"
 remote_file_id="3496956326"
